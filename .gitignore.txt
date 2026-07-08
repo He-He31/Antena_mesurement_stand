@@ -1,0 +1,7 @@
+espressif-altium-libs-main/
+altium-library-master/
+AltiumLibrary-master/
+altium-lib-main/
+altium-lib-main.zip
+AltiumLibrary-master.zip
+espressif-altium-libs-main.zip
